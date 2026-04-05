@@ -1,4 +1,4 @@
-# 🧪 *Rift’s Obsidian Laboratory*
+# 🧪 Rift’s Obsidian Laboratory
 
 Welcome to *Rift’s Obsidian Laboratory* — a collection of experimental, creative, and technical *Obsidian* plugins and themes developed and maintained by *Rift* (It's me ! The one who is writing this at 15h42, the 4th of April 2026, haha).
 
@@ -6,7 +6,7 @@ This organization serves as a central hub for all my *Obsidian* development proj
 
 ---
 
-## *About*
+## About
 
 *Rift’s Obsidian Laboratory* is a **public workspace** dedicated to exploring the architecture, customization, and possibilities of *Obsidian* and its API.  
 While repositories are publicly visible for documentation, curiosity, and educational reference, they remain **closed-source** unless explicitly stated otherwise.
@@ -15,7 +15,7 @@ This organization exists primarily as a **centralization point** — a place to 
 
 ---
 
-## *Project Focus*
+## Project Focus
 
 You’ll find three categories of projects here:
 
@@ -27,7 +27,7 @@ Each repository includes its own detailed README explaining scope, compatibility
 
 ---
 
-## *License & Permissions*
+## License & Permissions
 
 If not clearly stated otherwise, repositories are **public for viewing and reference**, but **not open source**.  
 See more details in the licenses provided in individual project repositories.
@@ -36,7 +36,7 @@ You’re welcome to explore these projects to learn about their structure, abstr
 
 ---
 
-## *Author*
+## Author
 
 Created and maintained by [*Rift*](https://github.com/NoahBoos).  
 
